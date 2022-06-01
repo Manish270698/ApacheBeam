@@ -12,3 +12,4 @@ The files related to the Apache Beam training which I did on udemy.
   2. Side Inputs and Outputs
   3. Real time Case Study - Identifying real time bank defaulters
   4. Type Hints in Beam
+  5. Build Streamin Data Pipelines
