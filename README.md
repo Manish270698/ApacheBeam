@@ -21,6 +21,8 @@ The files related to the Apache Beam training which I did on udemy.
   
   9. Write to Big-Query Tbales
 
-      a. Client Class Methods : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html 
-      b. Dataset List Of Attributes : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.dataset.Dataset.html 
+      a. Client Class Methods : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html
+  
+      b. Dataset List Of Attributes : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.dataset.Dataset.html
+  
       c. Dispositions Link : https://beam.apache.org/releases/pydoc/2.15.0/apache_beam.io.gcp.bigquery.html
