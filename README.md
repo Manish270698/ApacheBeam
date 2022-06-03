@@ -16,8 +16,8 @@ The files related to the Apache Beam training which I did on udemy.
   6. Implementing Windows in Apache Beam
   7. Real Time Case Study - Mobile Game Analysis
   8. Deploy Beam Pipeline on Google Cloud Dataflow
-    Dataflow quickstart link : https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-python
+      Dataflow quickstart link : https://cloud.google.com/dataflow/docs/quickstarts/create-pipeline-python
   9. Write to Big-Query Tbales\n
-    Client Class Methods : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html \n
-    Dataset List Of Attributes : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.dataset.Dataset.html \n
-    Dispositions Link : https://beam.apache.org/releases/pydoc/2.15.0/apache_beam.io.gcp.bigquery.html
+      Client Class Methods : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.client.Client.html 
+      Dataset List Of Attributes : https://googleapis.dev/python/bigquery/latest/generated/google.cloud.bigquery.dataset.Dataset.html 
+      Dispositions Link : https://beam.apache.org/releases/pydoc/2.15.0/apache_beam.io.gcp.bigquery.html
